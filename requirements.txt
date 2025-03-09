@@ -1,0 +1,11 @@
+Django>=5.0.0,<5.1
+djangorestframework
+python-dotenv
+gunicorn
+dj-database-url
+django-cors-headers
+django-redis
+celery
+whitenoise
+requests
+psycopg2-binary
